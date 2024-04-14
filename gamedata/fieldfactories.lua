@@ -1,0 +1,27 @@
+local factories = {
+	[[factoryshield]],
+	[[factorycloak]],
+	[[factoryveh]],
+	[[factoryplane]],
+	[[factorygunship]],
+	[[factoryhover]],
+	[[factoryamph]],
+	[[factoryspider]],
+	[[factoryjump]],
+	[[factorytank]],
+	[[factoryship]],
+	[[striderhub]],
+	[[plateshield]],
+	[[platecloak]],
+	[[plateveh]],
+	[[plateplane]],
+	[[plategunship]],
+	[[platehover]],
+	[[plateamph]],
+	[[platespider]],
+	[[platejump]],
+	[[platetank]],
+	[[plateship]],
+} -- Perhaps autodetect factories later.
+
+return factories
